@@ -28,7 +28,7 @@ export default function Home() {
         </TabsContent>
 
         <TabsContent value="registrar">
-          form de registrar
+          <h1>form de registrar</h1>
         </TabsContent>
         </Tabs>
 
